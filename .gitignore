@@ -1,0 +1,29 @@
+.DS_Store
+build-tmp/
+*.sublime-workspace
+*.sublime-project
+node_modules/
+node_modules/
+bower_components/
+.DS_Store
+# nodejs and web dev
+node_modules
+bower_components
+#sublme sftp plugin
+sftp-config.json
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache
+.DS_Store
+# nodejs and web dev
+node_modules
+bower_components
+#sublme sftp plugin
+sftp-config.json
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache
