@@ -1,6 +1,6 @@
-# grunt-init-extendscript
+# grunt-init-webdev
 
-> Create a extendscript with [grunt-init][grunt-init]. Based on the grunt-init-jquery template
+> Create a simple web page with [grunt-init][grunt-init]. Based on the grunt-init-jquery and grunt-init-bower template
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -10,7 +10,7 @@ If you haven't already done so, install [grunt-init][].
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone https://github.com/fabiantheblind/grunt-init-extendscript.git ~/.grunt-init/extendscript
+git clone https://github.com/fabiantheblind/grunt-init-webdev.git ~/.grunt-init/webdev
 ```
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
@@ -20,7 +20,7 @@ _(Windows users, see [the documentation][grunt-init] for the correct destination
 At the command-line, cd into an empty directory, run this command and follow the prompts.
 
 ```
-grunt-init extendscript
+grunt-init webdev
 ```
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
